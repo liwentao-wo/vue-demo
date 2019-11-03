@@ -9,12 +9,12 @@ const axios = require('axios');
 export default {
     data() {
         return {
-            text: '2',
+            text: '222222',
         }
     },
     mounted() {
         setTimeout(() => {
-        this.text = 5;
+        this.text = 522222;
         }, 2000)
         
     },
